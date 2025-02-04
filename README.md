@@ -2,7 +2,7 @@
 
 Since the 2020 pandemic, there was a surge in pet ownership. However, with reinstated return-to-office (RTO) policies, many pets were surrendered to shelters.
 
-Pet Adoption is an app designed to connect potential pet owners with nearby local shelters, making it easier to find and adopt pets while helping to increase adoption rates
+Pet Adoption is an app designed to connect potential pet owners with nearby local shelters, making it easier to find and adopt pets 
 
  Homepage
 <img width="1919" alt="Screenshot 2025-02-03 at 4 46 54 PM" src="https://github.com/user-attachments/assets/de3fb3ac-3253-43f4-9085-0df6daf5fe6e" />
