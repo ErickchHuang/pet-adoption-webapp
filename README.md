@@ -1,6 +1,6 @@
 # pet-adoption-webapp
 
-Since the 2020 pandemic, there was a surge in pet ownership. However, with reinstated return-to-office (RTO) policies, many pets were surrendered to shelters.
+Since the 2020 pandemic, there was a surge in pet ownership. However, with the reinstated return-to-office (RTO) policy, many pets were surrendered to shelters.
 
 Pet Adoption is an app designed to connect potential pet owners with nearby local shelters, making it easier to find and adopt pets. 
 
